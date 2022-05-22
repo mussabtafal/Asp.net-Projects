@@ -1,0 +1,16 @@
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\bin\Debug\net5.0\SimpleSumCalc.exe
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\bin\Debug\net5.0\SimpleSumCalc.deps.json
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\bin\Debug\net5.0\SimpleSumCalc.runtimeconfig.json
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\bin\Debug\net5.0\SimpleSumCalc.runtimeconfig.dev.json
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\bin\Debug\net5.0\SimpleSumCalc.dll
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\bin\Debug\net5.0\SimpleSumCalc.pdb
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\obj\Debug\net5.0\SimpleSumCalc.csproj.AssemblyReference.cache
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\obj\Debug\net5.0\SimpleSumCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\obj\Debug\net5.0\SimpleSumCalc.AssemblyInfoInputs.cache
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\obj\Debug\net5.0\SimpleSumCalc.AssemblyInfo.cs
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\obj\Debug\net5.0\SimpleSumCalc.csproj.CoreCompileInputs.cache
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\obj\Debug\net5.0\SimpleSumCalc.dll
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\obj\Debug\net5.0\refint\SimpleSumCalc.dll
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\obj\Debug\net5.0\SimpleSumCalc.pdb
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\obj\Debug\net5.0\SimpleSumCalc.genruntimeconfig.cache
+C:\Users\mussa\Dropbox\PC\Desktop\Github\C#\C#\SimpleSum\SimpleSumCalc\SimpleSumCalc\obj\Debug\net5.0\ref\SimpleSumCalc.dll

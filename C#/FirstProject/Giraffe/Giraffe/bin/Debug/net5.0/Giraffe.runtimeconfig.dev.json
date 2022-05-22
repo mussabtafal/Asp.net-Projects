@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mussa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mussa\\.nuget\\packages"
+    ]
+  }
+}
