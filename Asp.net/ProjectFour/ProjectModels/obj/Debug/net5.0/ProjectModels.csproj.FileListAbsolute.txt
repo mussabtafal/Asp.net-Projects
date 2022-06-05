@@ -1,0 +1,17 @@
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\bin\Debug\net5.0\appsettings.json
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\bin\Debug\net5.0\ProjectModels.deps.json
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\bin\Debug\net5.0\ProjectModels.dll
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\bin\Debug\net5.0\ProjectModels.pdb
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\obj\Debug\net5.0\ProjectModels.csproj.AssemblyReference.cache
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\obj\Debug\net5.0\ProjectModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\obj\Debug\net5.0\ProjectModels.AssemblyInfoInputs.cache
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\obj\Debug\net5.0\ProjectModels.AssemblyInfo.cs
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\obj\Debug\net5.0\ProjectModels.csproj.CoreCompileInputs.cache
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\obj\Debug\net5.0\scopedcss\bundle\ProjectModels.styles.css
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\obj\Debug\net5.0\staticwebassets\ProjectModels.StaticWebAssets.Manifest.cache
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\obj\Debug\net5.0\ProjectModels.RazorTargetAssemblyInfo.cache
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\obj\Debug\net5.0\ProjectModels.dll
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\obj\Debug\net5.0\refint\ProjectModels.dll
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\obj\Debug\net5.0\ProjectModels.pdb
+C:\Users\MussabTaffal\Desktop\Git\Asp.net\ProjectFour\ProjectModels\obj\Debug\net5.0\ref\ProjectModels.dll
