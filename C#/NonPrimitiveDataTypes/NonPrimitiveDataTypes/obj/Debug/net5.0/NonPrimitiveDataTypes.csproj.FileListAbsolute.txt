@@ -1,0 +1,16 @@
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\bin\Debug\net5.0\NonPrimitiveDataTypes.exe
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\bin\Debug\net5.0\NonPrimitiveDataTypes.deps.json
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\bin\Debug\net5.0\NonPrimitiveDataTypes.runtimeconfig.json
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\bin\Debug\net5.0\NonPrimitiveDataTypes.runtimeconfig.dev.json
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\bin\Debug\net5.0\NonPrimitiveDataTypes.dll
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\bin\Debug\net5.0\NonPrimitiveDataTypes.pdb
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\obj\Debug\net5.0\NonPrimitiveDataTypes.csproj.AssemblyReference.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\obj\Debug\net5.0\NonPrimitiveDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\obj\Debug\net5.0\NonPrimitiveDataTypes.AssemblyInfoInputs.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\obj\Debug\net5.0\NonPrimitiveDataTypes.AssemblyInfo.cs
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\obj\Debug\net5.0\NonPrimitiveDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\obj\Debug\net5.0\NonPrimitiveDataTypes.dll
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\obj\Debug\net5.0\refint\NonPrimitiveDataTypes.dll
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\obj\Debug\net5.0\NonPrimitiveDataTypes.pdb
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\obj\Debug\net5.0\NonPrimitiveDataTypes.genruntimeconfig.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\NonPrimitiveDataTypes\NonPrimitiveDataTypes\obj\Debug\net5.0\ref\NonPrimitiveDataTypes.dll
