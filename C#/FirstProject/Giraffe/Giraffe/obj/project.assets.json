@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mussa\\.nuget\\packages\\": {}
+    "C:\\Users\\MussabTaffal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mussa\\Dropbox\\PC\\Desktop\\testing\\Giraffe\\Giraffe\\Giraffe.csproj",
+      "projectUniqueName": "C:\\Users\\MussabTaffal\\Desktop\\Git\\C#\\FirstProject\\Giraffe\\Giraffe\\Giraffe.csproj",
       "projectName": "Giraffe",
-      "projectPath": "C:\\Users\\mussa\\Dropbox\\PC\\Desktop\\testing\\Giraffe\\Giraffe\\Giraffe.csproj",
-      "packagesPath": "C:\\Users\\mussa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mussa\\Dropbox\\PC\\Desktop\\testing\\Giraffe\\Giraffe\\obj\\",
+      "projectPath": "C:\\Users\\MussabTaffal\\Desktop\\Git\\C#\\FirstProject\\Giraffe\\Giraffe\\Giraffe.csproj",
+      "packagesPath": "C:\\Users\\MussabTaffal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MussabTaffal\\Desktop\\Git\\C#\\FirstProject\\Giraffe\\Giraffe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mussa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MussabTaffal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
