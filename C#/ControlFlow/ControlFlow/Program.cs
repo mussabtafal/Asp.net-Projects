@@ -78,26 +78,113 @@ namespace ControlFlow
 
             //Application excercise 4
 
-            Console.WriteLine("Please enter speed limit: ");
-            int speedLimit = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Please enter speed limit: ");
+            //int speedLimit = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Please ennter the car speed: ");
-            int carSpeed = Convert.ToInt32(Console.ReadLine());
+            //Console.WriteLine("Please ennter the car speed: ");
+            //int carSpeed = Convert.ToInt32(Console.ReadLine());
 
-            if (carSpeed <= speedLimit)
+            //if (carSpeed <= speedLimit)
+            //{
+            //    Console.WriteLine("Ok");
+            //} else
+            //{
+            //    int demeritPoints = carSpeed/5;
+            //    if (demeritPoints > 12)
+            //    {
+            //        Console.WriteLine("License Suspended !");
+            //    }
+
+            //}
+
+            //for (var i = 0; i <10; i++)
+            //{
+            //    Console.WriteLine("for loop");
+            //}
+
+            //int[] numbers = new int[10];
+            //foreach (var number in numbers)
+            //{
+            //    Console.WriteLine("for each loop");
+            //}
+
+
+            //int i = 1;
+            //while(i < 10)
+            //{
+            //    Console.WriteLine("While loop");
+            //    i++;
+            //}
+
+            //do
+            //{
+            //    Console.WriteLine("Do/While loop");
+            //    i++;
+            //} while(i < 10);
+
+            //for (var i = 1; i <= 10; i++)
+            //{
+            //    if (i%2 == 0)
+            //        Console.WriteLine(i);
+            //}
+
+            //for (var i = 10; i >= 1; i--)
+            //{
+            //    if (i % 2 == 0)
+            //        Console.WriteLine(i);
+            //}
+
+            //var name = "John Smith";
+            //for (var i = 0; i < name.Length; i++)
+            //{
+            //    Console.WriteLine(name[i]);
+            //}
+
+
+            //foreach (var character in name)
+            //{
+            //    Console.WriteLine(character);
+            //}
+
+            //var numbers = new int[] {1, 2, 3, 4};
+
+            //foreach (var number in numbers)
+            //{
+            //    Console.WriteLine(number);
+            //};
+
+            //var i = 0;
+            //while (i <= 10)
+            //{
+            //    if (i%2 == 0)
+            //        Console.WriteLine(i);
+
+            //    i++;
+            //}
+
+            //while (true)
+            //{
+            //    Console.Write("Type your name: ");
+            //    var input = Console.ReadLine();
+
+            //    if (!string.IsNullOrEmpty(input))
+            //    {
+            //        Console.WriteLine("@Echo: " + input);
+            //        continue;
+            //    }
+            //        break;
+
+            //}
+
+            var random = new Random();
+            for (var i = 0; i < 10; i++)
             {
-                Console.WriteLine("Ok");
-            } else
-            {
-                int demeritPoints = carSpeed/5;
-                if (demeritPoints > 12)
-                {
-                    Console.WriteLine("License Suspended !");
-                }
+                //Console.Write((char)random.Next(97,122));
+                Console.Write((char)('a' + random.Next(0, 26)));
 
             }
 
-            
+            //Console.WriteLine((int)'a');
 
 
         }
