@@ -33,5 +33,14 @@ namespace AppTests
             var exceptionDetails = Assert.Throws<ArgumentException>(() => customer.GetOrdersByName(""));
             Assert.Equal("Hello", exceptionDetails.Message);
         }
+
+        [Fact]
+        public void LoyalCustomerForOrdersG100()
+        {
+            var customer = CustomerFactory.CreateCustomerInstance(110);
+            //Assert.IsType(typeof(LoyalCustomer), customer);
+            var loyalCustomer = Assert.IsType<LoyalCustomer>(customer);
+            Assert.Equal(10, loyalCustomer.Discount);
+        }
     }
 }

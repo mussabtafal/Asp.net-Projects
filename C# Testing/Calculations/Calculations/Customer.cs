@@ -10,7 +10,7 @@ namespace UnitTestClasses
     {
         public string Name => "Aref";
 
-        public int GetOrdersByName(string name)
+        public virtual int GetOrdersByName(string name)
         {
             if (string.IsNullOrEmpty(name))
             {
@@ -38,6 +38,12 @@ namespace UnitTestClasses
 
     public static class CustomerFactory
     {
-
+        public static Customer CreateCustomerInstance(int orderCount)
+        {
+            if (orderCount <= 100)
+                return new Customer();
+            else
+            return new LoyalCustomer();
+        }
     }
 }
