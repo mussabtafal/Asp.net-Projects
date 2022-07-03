@@ -11,6 +11,7 @@ namespace AppTests
     public class FiboTest
     {
         [Fact]
+        [Trait("Category", "Fibo")]
         public void FiboDoesNotIncludeZero()
         {
             var calc = new Calculator();
@@ -18,6 +19,8 @@ namespace AppTests
         }
 
         [Fact]
+        [Trait("Category", "Fibo")]
+
         public void FiboIncludes13()
         {
             var calc = new Calculator();
@@ -25,6 +28,8 @@ namespace AppTests
         }
 
         [Fact]
+        [Trait("Category", "Fibo")]
+
         public void FiboIncludes4()
         {
             var calc = new Calculator();
@@ -32,6 +37,8 @@ namespace AppTests
         }
 
         [Fact]
+        [Trait("Category", "Fibo")]
+
         public void CheckCollection()
         {
             var expectedCollection = new List<int> { 1, 1, 2, 3, 5, 8, 13 };
