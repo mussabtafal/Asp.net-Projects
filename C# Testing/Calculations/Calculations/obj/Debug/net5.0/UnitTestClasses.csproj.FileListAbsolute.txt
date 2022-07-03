@@ -1,0 +1,24 @@
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\bin\Debug\net5.0\UnitTestClasses.exe
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\bin\Debug\net5.0\UnitTestClasses.deps.json
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\bin\Debug\net5.0\UnitTestClasses.runtimeconfig.json
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\bin\Debug\net5.0\UnitTestClasses.runtimeconfig.dev.json
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\bin\Debug\net5.0\UnitTestClasses.dll
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\bin\Debug\net5.0\UnitTestClasses.pdb
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.csproj.AssemblyReference.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.AssemblyInfoInputs.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.AssemblyInfo.cs
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.csproj.CoreCompileInputs.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.dll
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\obj\Debug\net5.0\refint\UnitTestClasses.dll
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.pdb
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.genruntimeconfig.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\Calculations\Calculations\obj\Debug\net5.0\ref\UnitTestClasses.dll
+C:\Users\MussabTaffal\Desktop\Git\C# Testing\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.csproj.AssemblyReference.cache
+C:\Users\MussabTaffal\Desktop\Git\C# Testing\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MussabTaffal\Desktop\Git\C# Testing\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.AssemblyInfoInputs.cache
+C:\Users\MussabTaffal\Desktop\Git\C# Testing\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.AssemblyInfo.cs
+C:\Users\MussabTaffal\Desktop\Git\C# Testing\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.csproj.CoreCompileInputs.cache
+C:\Users\MussabTaffal\Desktop\Git\C# Testing\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.dll
+C:\Users\MussabTaffal\Desktop\Git\C# Testing\Calculations\Calculations\obj\Debug\net5.0\refint\UnitTestClasses.dll
+C:\Users\MussabTaffal\Desktop\Git\C# Testing\Calculations\Calculations\obj\Debug\net5.0\UnitTestClasses.pdb
