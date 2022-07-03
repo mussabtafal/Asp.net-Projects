@@ -11,12 +11,17 @@ using Xunit.Abstractions;
 
 namespace AppTests
 {
-    public class CalculatorFixture
+    public class CalculatorFixture : IDisposable
     {
         public Calculator Calc => new Calculator();
+
+        public void Dispose()
+        {
+            //Clean unwanted code and resources.
+        }
     }
 
-    public class CalculatorTest : IClassFixture<CalculatorFixture>
+    public class CalculatorTest : IClassFixture<CalculatorFixture>, IDisposable
     {
         private readonly ITestOutputHelper _testOutputHelper;
         private readonly CalculatorFixture _calculatorFixture;
@@ -26,6 +31,7 @@ namespace AppTests
             _testOutputHelper = testOutputHelper;
             _calculatorFixture = calculatorFixture;
             _testOutputHelper.WriteLine("Constructor");
+            memoryStream = new MemoryStream ();
         }
 
         [Fact]
@@ -48,6 +54,7 @@ namespace AppTests
         [Trait("Category", "Fibo")]
         public void FiboDoesNotIncludeZero()
         {
+            _testOutputHelper.WriteLine("FiboDoesNotIncludeZero");
             var calc = _calculatorFixture.Calc;
             Assert.All(calc.FiboNumbers, n => Assert.NotEqual(0, n));
         }
@@ -57,6 +64,7 @@ namespace AppTests
 
         public void FiboIncludes13()
         {
+            _testOutputHelper.WriteLine("FiboIncludes13");
             var calc = _calculatorFixture.Calc;
             Assert.Contains(13, calc.FiboNumbers);
         }
@@ -66,6 +74,7 @@ namespace AppTests
 
         public void FiboIncludes4()
         {
+            _testOutputHelper.WriteLine("FiboIncludes4");
             var calc = _calculatorFixture.Calc;
             Assert.DoesNotContain(4, calc.FiboNumbers);
         }
@@ -75,9 +84,17 @@ namespace AppTests
 
         public void CheckCollection()
         {
+            _testOutputHelper.WriteLine("Test starting at {0}", DateTime.Now);
             var expectedCollection = new List<int> { 1, 1, 2, 3, 5, 8, 13 };
             var calc = _calculatorFixture.Calc;
+            _testOutputHelper.WriteLine("Asserting");
             Assert.Equal(expectedCollection, calc.FiboNumbers);
+            _testOutputHelper.WriteLine("End");
+        }
+
+        public void Dispose()
+        {
+            memoryStream.Close();  
         }
     }
 }
