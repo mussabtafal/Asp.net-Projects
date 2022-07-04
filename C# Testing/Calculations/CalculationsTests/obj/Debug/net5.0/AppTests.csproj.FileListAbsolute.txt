@@ -202,3 +202,4 @@ C:\Users\MussabTaffal\Desktop\Git\C# Testing\Calculations\CalculationsTests\obj\
 C:\Users\MussabTaffal\Desktop\Git\C# Testing\Calculations\CalculationsTests\obj\Debug\net5.0\AppTests.pdb
 C:\Users\MussabTaffal\Desktop\Git\C# Testing\Calculations\CalculationsTests\obj\Debug\net5.0\AppTests.genruntimeconfig.cache
 C:\Users\MussabTaffal\Desktop\Git\C# Testing\Calculations\CalculationsTests\obj\Debug\net5.0\ref\AppTests.dll
+C:\Users\MussabTaffal\Desktop\Git\C# Testing\Calculations\CalculationsTests\bin\Debug\net5.0\IsOddOrEvenTestData.txt

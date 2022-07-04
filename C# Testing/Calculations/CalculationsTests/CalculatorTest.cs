@@ -92,6 +92,50 @@ namespace AppTests
             _testOutputHelper.WriteLine("End");
         }
 
+        //Without inLine "Theory" attribute
+        //[Fact]
+        //public void IsOdd_GivenOddValue_ReturnsTrue()
+        //{
+        //    var calc = new Calculator();
+        //    var result = calc.IsOdd(1);
+        //    Assert.Equal(true, result);
+        //}
+
+        //[Fact]
+        //public void IsOdd_GivenEvenValue_ReturnsFalse()
+        //{
+        //    var calc = new Calculator();
+        //    var result = calc.IsOdd(1);
+        //    Assert.Equal(false, result);
+        //}
+
+        [Theory]
+        [MemberData(nameof(TestDataShare.IsOddEvenData), MemberType = typeof(TestDataShare))]   
+        public void IsOdd_TestOddAndEven(int value, bool expected)
+        {
+            var calc = new Calculator();
+            var result = calc.IsOdd(value);
+            Assert.Equal(expected, result);
+        }
+
+        [Theory]
+        [MemberData(nameof(TestDataShare.IsEvenOddExternalData), MemberType = typeof(TestDataShare))]
+        public void IsOdd_TestOddAndEvenExternal (int value, bool expected)
+        {
+            var calc = new Calculator();
+            var result = calc.IsOdd(value);
+            Assert.Equal(expected, result);
+        }
+
+        [Theory]
+        [IsOddOrEvenData]
+        public void IsOdd_TestOddAndEvenExternalWithAttribute(int value, bool expected)
+        {
+            var calc = new Calculator();
+            var result = calc.IsOdd(value);
+            Assert.Equal(expected, result);
+        }
+
         public void Dispose()
         {
             memoryStream.Close();  
