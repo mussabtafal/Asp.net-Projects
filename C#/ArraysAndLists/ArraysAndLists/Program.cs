@@ -35,11 +35,28 @@ namespace ArraysAndLists
             var numbers = new List<int>() { 1, 2, 3, 4 };
             numbers.Add(1);
             numbers.AddRange(new int[3] { 5, 6, 7 });
-            numbers.AddRange(numbers);
-            foreach (var number in numbers)
-            Console.WriteLine(number);
+            //foreach (var number in numbers)
+            //Console.WriteLine(number);
 
+            //Console.WriteLine(numbers.IndexOf(1));
+            //Console.WriteLine(numbers.LastIndexOf(1));
+            //Console.WriteLine(numbers.Count);
 
+            //numbers.Remove(1);
+            //foreach (var number in numbers)
+            //    Console.WriteLine(number);
+
+            for (var i = 0; i < numbers.Count; i++)
+            {
+                if (numbers[i] == 1)
+                    numbers.Remove(numbers[i]);
+            }
+            for (var i = 0; i < numbers.Count; i++)
+            {
+                Console.WriteLine(numbers[i]);
+            }
+            numbers.Clear();
+            Console.WriteLine(numbers.Count);
         }
     }
 }
