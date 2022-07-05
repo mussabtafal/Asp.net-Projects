@@ -1,0 +1,16 @@
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\bin\Debug\net5.0\DateAndTime.exe
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\bin\Debug\net5.0\DateAndTime.deps.json
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\bin\Debug\net5.0\DateAndTime.runtimeconfig.json
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\bin\Debug\net5.0\DateAndTime.runtimeconfig.dev.json
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\bin\Debug\net5.0\DateAndTime.dll
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\bin\Debug\net5.0\DateAndTime.pdb
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.csproj.AssemblyReference.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.AssemblyInfoInputs.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.AssemblyInfo.cs
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.dll
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\obj\Debug\net5.0\refint\DateAndTime.dll
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.pdb
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\obj\Debug\net5.0\DateAndTime.genruntimeconfig.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\DateAndTime\DateAndTime\obj\Debug\net5.0\ref\DateAndTime.dll
