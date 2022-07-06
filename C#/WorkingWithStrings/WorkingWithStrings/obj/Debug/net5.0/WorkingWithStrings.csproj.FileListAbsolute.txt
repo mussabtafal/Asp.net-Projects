@@ -1,0 +1,16 @@
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.exe
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.deps.json
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.runtimeconfig.json
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.runtimeconfig.dev.json
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.dll
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\bin\Debug\net5.0\WorkingWithStrings.pdb
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.csproj.AssemblyReference.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.AssemblyInfoInputs.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.AssemblyInfo.cs
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.dll
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\refint\WorkingWithStrings.dll
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.pdb
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\WorkingWithStrings.genruntimeconfig.cache
+C:\Users\MussabTaffal\Desktop\Git\C#\WorkingWithStrings\WorkingWithStrings\obj\Debug\net5.0\ref\WorkingWithStrings.dll
